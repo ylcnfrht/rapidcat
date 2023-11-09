@@ -1,4 +1,4 @@
-const rapidcat = require('../lib/rapidcat');
+const rapidcat = require('../index');
 const { prevMiddleware, nextMiddleware } = require('./middlewares');
 
 const app = rapidcat();

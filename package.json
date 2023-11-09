@@ -1,14 +1,14 @@
 {
   "name": "rapidcat",
   "version": "1.0.0",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js"
+    "start": "node ./examples/app.js"
   },
   "keywords": [],
   "author": "Ferhat Yalçın",
   "license": "MIT",
-  "description": "Fast, unopinionated, minimalist web framework for Node.js",
+  "description": "Blazingly Fast, Exceptionally Lightweight, and Highly Flexible Web Framework for",
   "dependencies": {}
 }
